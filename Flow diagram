@@ -1,0 +1,77 @@
++------------------+
+|   Start Program  |
++------------------+
+        |
+        v
+  +--------------+
+  | User Auth    |
+  | 1. Login     |
+  | 2. Register  |
+  | 3. Exit      |
+  +--------------+
+        |
+        v
+  +------------------+
+  |  Authenticated   |
+  |     Menu         |
+  | 1. Add Bus       |
+  | 2. Display       |
+  | 3. Search Bus    |
+  | 4. Book Seat     |
+  | 5. View Seat s   |
+  | 6. Cancel Booking|
+  | 7. Logout        |
+  +------------------+
+        |
+        v
+  +------------------+
+  |  Add Bus Record  |
+  | 1. Enter Reg. No.|
+  | 2. Enter Model   |
+  | 3. Enter Year    |
+  +------------------+
+        |
+        v
+  +------------------+
+  |   Display Buses  |
+  |   (Loop through  |
+  |   stored buses)  |
+  +------------------+
+        |
+        v
+  +------------------+
+  |  Search Bus by   |
+  |   Reg. Number    |
+  | 1. Enter Reg. No.|
+  +------------------+
+        |
+        v
+  +-------------------+
+  |  Book Seat        |
+  | 1. Enter Reg. No. |
+  | 2. Enter Username |
+  +-------------------+
+        |
+        v
+  +------------------+
+  |   View Available |
+  |    Seats         |
+  | 1. Enter Reg. No.|
+  +------------------+
+        |
+        v
+  +--------------------+
+  | Cancel Booking     |
+  | 1. Enter Reg. No.  |
+  | 2. Enter Seat No.  |
+  +--------------------+
+        |
+        v
+  +------------------+
+  |   Logout         |
+  +------------------+
+        |
+        v
+  +------------------+
+  |  End Program     |
+  +------------------+
